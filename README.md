@@ -8,7 +8,7 @@ ftp-client is a file transfer protocol made in C++. It is hosted on local host u
 
 Install <b>telnet</b> on your machine, <br />
 you can then connect to the server after the execution of the binary with this command: <br />
-<b>telnet 127.0.0.1 8081</b>< br />
+<b>telnet 127.0.0.1 8081</b>
 
  
 # Commands:
